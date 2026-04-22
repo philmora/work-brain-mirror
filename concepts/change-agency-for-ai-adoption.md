@@ -58,6 +58,12 @@ important: individual PMs need individual on-ramps.
   engineering PR merge rates. How do you measure whether a PM's thinking
   improved because they used AI? Open question.
 
+## Related
+
+- [[concepts/agentic-readiness]] — the repo-preparation side of the same coin
+- [[concepts/vibe-driven-product-development]] — the PM-specific adoption target
+- [[concepts/pm-as-builder]] — being the proof point that change agents need to be
+
 ## Sources
 
 - Personal synthesis from running and participating in adoption efforts

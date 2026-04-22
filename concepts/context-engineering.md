@@ -56,6 +56,12 @@ don't need to be re-derived.
 - "RAG retrieves and forgets. A wiki accumulates and compounds." — this is
   why the wiki pattern beats traditional "chat with your docs" products
 
+## Related
+
+- [[concepts/agentic-readiness]] — context engineering applied to codebases
+- [[concepts/pm-as-builder]] — the thesis that motivates practicing context engineering daily
+- [[concepts/repo-velocity]] — the LLM scorer is context engineering applied to measurement
+
 ## Sources
 
 - Karpathy's LLM Wiki gist — public gist on GitHub under his profile

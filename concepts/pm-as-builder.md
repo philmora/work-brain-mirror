@@ -58,6 +58,13 @@ and years.
   not just demonstrate capability. The test is whether other people use what
   gets built.
 
+## Related
+
+- [[concepts/vibe-driven-product-development]] — the organizational version of this personal thesis
+- [[concepts/context-engineering]] — the foundational discipline that makes AI-native building effective
+- [[concepts/change-agency-for-ai-adoption]] — the proof-point pattern this thesis relies on
+- [[concepts/repo-velocity]] — measurement in the agent era; PM-built tools only matter if they survive that test
+
 ## Sources
 
 - Personal thesis; not sourced from external material

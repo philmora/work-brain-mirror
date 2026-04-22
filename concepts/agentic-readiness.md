@@ -49,6 +49,13 @@ tooling changes.
 - AI context files (`.cursorrules`, `AGENTS.md`, `CLAUDE.md`) are the repo's
   instruction manual for agents — treat them as first-class code artifacts
 
+## Related
+
+- [[concepts/context-engineering]] — agentic readiness is context engineering applied to codebases
+- [[concepts/change-agency-for-ai-adoption]] — the people side of getting organizations to actually prepare their repos
+- [[concepts/vibe-driven-product-development]] — a downstream consumer of agentic-ready platforms
+- [[concepts/repo-velocity]] — shares the repo-as-unit framing; agentic-readiness is a health input
+
 ## Sources
 
 - Personal thesis, refined through hands-on work on an in-progress

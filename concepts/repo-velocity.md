@@ -57,6 +57,12 @@ Five things that fall out once you run the two-layer measurement:
 - LLM scoring uses a single model with a calibration pass. Scores are internally consistent within a run but not directly comparable across runs of different prompts or model versions.
 - The health dimension — agent-readiness scoring — is harder to operationalize and was a placeholder in the first pass.
 
+## Related
+
+- [[concepts/agentic-readiness]] — the health dimension draws from agentic-readiness signals
+- [[concepts/context-engineering]] — the LLM scoring layer is context engineering applied to measurement
+- [[concepts/pm-as-builder]] — a PM-built measurement tool is itself an instance of the builder thesis
+
 ## Sources
 
 - Personal thesis + first-pass experiment, April 2026. Tool was a one-week build.

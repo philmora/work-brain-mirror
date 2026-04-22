@@ -66,6 +66,12 @@ produce real software.
   (exploratory, fast, low-ceremony), but the discipline underneath is
   serious — real validation, real data, real handoffs.
 
+## Related
+
+- [[concepts/pm-as-builder]] — the personal thesis that motivates this concept
+- [[concepts/agentic-readiness]] — the platform preparation that makes vibecoding possible
+- [[concepts/change-agency-for-ai-adoption]] — getting PMs to actually adopt the workflow
+
 ## Sources
 
 - Personal operating thesis, informed by an in-progress platform build
