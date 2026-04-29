@@ -3,6 +3,8 @@
 Everything here is eligible to cross to the personal-laptop mirror
 (`work-brain-mirror` repo). Nothing outside this directory is ever shipped.
 
+> Wikilinks (`[[category/slug]]`) appear only as the leading token of list items under `## Related` headings. Do not embed inline. The Framer renderer uses a regex-based resolver that depends on this convention.
+
 ## Writing discipline
 
 A file under `public/` is not a filtered copy of a private file. It is a
