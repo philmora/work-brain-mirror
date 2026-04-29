@@ -1,6 +1,13 @@
 ---
 personal: true
 public: true
+slug: vibe-driven-product-development
+title: Vibe-Driven Product Development
+dek: PMs and domain experts build functional prototypes that validate ideas with real data before engineering commits capacity — separating prototyping from production.
+date: 2026-04-14
+updated: 2026-04-21
+category: concepts
+order: 6
 ---
 
 # Vibe-Driven Product Development

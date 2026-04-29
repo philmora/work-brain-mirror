@@ -1,6 +1,13 @@
 ---
 personal: true
 public: true
+slug: repo-velocity
+title: Repo Velocity
+dek: Measuring engineering output in the AI era by combining quantitative signals with LLM scoring — to separate substantive work from operational noise.
+date: 2026-04-22
+updated: 2026-04-22
+category: concepts
+order: 1
 ---
 
 # Repo Velocity

@@ -1,6 +1,13 @@
 ---
 personal: true
 public: true
+slug: context-engineering
+title: Context Engineering
+dek: The discipline of filling the LLM context window with just the right information for the next step — not too much, not too little, structured deliberately.
+date: 2026-04-14
+updated: 2026-04-21
+category: concepts
+order: 3
 ---
 
 # Context Engineering

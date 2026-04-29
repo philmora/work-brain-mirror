@@ -1,6 +1,13 @@
 ---
 personal: true
 public: true
+slug: agentic-readiness
+title: Agentic Readiness
+dek: The principle that autonomous agent capability is a property of the repository, not the developer — prepare the codebase, not the person.
+date: 2026-04-14
+updated: 2026-04-21
+category: concepts
+order: 2
 ---
 
 # Agentic Readiness

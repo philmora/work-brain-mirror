@@ -1,6 +1,13 @@
 ---
 personal: true
 public: true
+slug: change-agency-for-ai-adoption
+title: Change Agency for AI Adoption
+dek: The organizational change management dimension of getting PMs, engineers, and domain experts to actually adopt AI tooling — the people problem, not the technology problem.
+date: 2026-04-14
+updated: 2026-04-21
+category: concepts
+order: 5
 ---
 
 # Change Agency for AI Adoption

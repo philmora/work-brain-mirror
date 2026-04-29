@@ -1,6 +1,13 @@
 ---
 personal: true
 public: true
+slug: pm-as-builder
+title: PM-as-Builder
+dek: "The thesis that the PM role can be reinvented by pairing deep technical product leadership with AI-native building — protecting and expanding builder time as the north star. The role evolves into \"builder\" starting now."
+date: 2026-04-14
+updated: 2026-04-21
+category: concepts
+order: 4
 ---
 
 # PM-as-Builder
