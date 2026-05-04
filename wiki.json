@@ -59,9 +59,38 @@
       "updated": "2026-04-21",
       "category": "concepts",
       "order": 6
+    },
+    {
+      "slug": "two-claude-protocol",
+      "title": "Two-Claude Protocol",
+      "dek": "A coordination pattern for work that spans two laptop environments — two LLM agents that don't talk directly, with a human router moving handoff documents between them. Validated by one full ship cycle.",
+      "date": "2026-04-30",
+      "updated": "2026-05-04",
+      "category": "concepts",
+      "order": 7
     }
   ],
-  "decisions": [],
+  "decisions": [
+    {
+      "slug": "work-brain-mirror-public",
+      "title": "Why the public mirror is public",
+      "dek": "The repo backing this site is PUBLIC, not private. Browser-side runtime fetch requires it; the airlock script and the forbidden-term glossary are the actual privacy boundary, not the wrapper repo's visibility setting.",
+      "date": "2026-04-30",
+      "updated": "2026-05-04",
+      "category": "decisions",
+      "order": 1
+    }
+  ],
   "sources": [],
-  "retros": []
+  "retros": [
+    {
+      "slug": "2026-04-30-philmora-detail-page-shipped",
+      "title": "Shipping the public-side wiki",
+      "dek": "2026-04-30 — the public side of a personal wiki shipped end-to-end. Retro on what worked, what cost time, and seven footguns logged for any future build that pairs a static-site builder with runtime fetch from a content repo.",
+      "date": "2026-04-30",
+      "updated": "2026-05-04",
+      "category": "retros",
+      "order": 1
+    }
+  ]
 }
