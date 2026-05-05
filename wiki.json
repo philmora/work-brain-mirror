@@ -5,6 +5,10 @@
     "sources": { "display": "Sources", "order": 3 },
     "retros": { "display": "Retros", "order": 4 }
   },
+  "_streams": {
+    "recipes": { "display": "Recipes (Base Camp internal)", "description": "Reusable patterns from work-brain operations; mirror-only consumption, not rendered on philmora.com" },
+    "reflections": { "display": "Reflections (Base Camp internal)", "description": "Distilled learnings; mirror-only consumption, not rendered on philmora.com" }
+  },
   "concepts": [
     {
       "slug": "repo-velocity",
@@ -91,6 +95,40 @@
       "updated": "2026-05-04",
       "category": "retros",
       "order": 1
+    }
+  ],
+  "recipes": [
+    {
+      "slug": "airlock-publishing-pipeline",
+      "title": "Airlock Publishing Pipeline",
+      "dek": "A reusable pattern for selectively publishing from a private knowledge wiki to a public site without leaking internal context — file-first source, hand-generalized companions, glossary-scanned export, public mirror with runtime fetch.",
+      "date": "2026-05-05",
+      "updated": "2026-05-05",
+      "category": "recipes",
+      "order": 1,
+      "stream": "internal"
+    },
+    {
+      "slug": "phil-style-prd-cycle",
+      "title": "PRD Cycle (Draft → Critique → Revise → Spec)",
+      "dek": "A four-skill discipline for producing high-quality PRDs through iteration — schema-driven drafting, structured critique, version-bumping revision, and gist publication. Each skill consumes the prior step's output via a single source-of-truth schema.",
+      "date": "2026-05-05",
+      "updated": "2026-05-05",
+      "category": "recipes",
+      "order": 2,
+      "stream": "internal"
+    }
+  ],
+  "reflections": [
+    {
+      "slug": "architectural-lock-discipline",
+      "title": "When to lock architecture before acting",
+      "dek": "A reflection on when to route a decision through explicit lock-in versus when to just execute. The case for lock-ins isn't that obvious calls go wrong — it's that the discipline catches the calls where confidence was misplaced.",
+      "date": "2026-05-05",
+      "updated": "2026-05-05",
+      "category": "reflections",
+      "order": 1,
+      "stream": "internal"
     }
   ]
 }
